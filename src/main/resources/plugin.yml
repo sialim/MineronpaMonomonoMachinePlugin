@@ -1,0 +1,5 @@
+name: MineronpaMonomonoMachinePlugin
+version: '${project.version}'
+main: me.sialim.mineronpamonomonomachineplugin.MineronpaMonomonoMachinePlugin
+api-version: '1.20'
+depend: [Vault]
